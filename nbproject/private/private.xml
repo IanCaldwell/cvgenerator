@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/_view.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/_experience.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/controllers/SiteController.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/create.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/controllers/CvController.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/layouts/main.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/index.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/_education.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/models/Cv.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/components/UserIdentity.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/config/main.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/home.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/_interests.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/view.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/controllers/UserController.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/models/User.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/_view.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/controllers/ProfileController.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/create.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/pdfCV.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/controllers/AchievementsController.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/extensions/yii-pdf/EYiiPdf.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/pdfCV_1.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/models/Language.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/components/Controller.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/profile/view.php</file>
+            <file>file:/C:/wamp/www/cvgenerator/protected/views/cv/_form.php</file>
+        </group>
+    </open-files>
+</project-private>
